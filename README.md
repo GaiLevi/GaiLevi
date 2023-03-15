@@ -18,6 +18,9 @@
 
 ## Languages and Tools:
 [<img title="C#" alt="C#"  width="40px" height="40px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" />](https://www.w3schools.com/C#/)
+[<img title="Java" alt="Java"  width="30px" height="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />](https://www.w3schools.com/Java/)
+[<img title="C++" alt="C++"  width="45px" height="45px" src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63065002ce321b529d375e07_2e261bcd.png" />](https://www.w3schools.com/C++/)
+[<img title="C" alt="C"  width="35px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />](https://www.w3schools.com/C/)
 [<img title="JS" alt="JS"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.w3schools.com/js/)
 [<img title="NODEJS" alt="NODEJS"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />](https://nodejs.org/en/)
 [<img title="CSS" alt="CSS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://www.w3schools.com/css/)
