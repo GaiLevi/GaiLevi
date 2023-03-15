@@ -2,7 +2,6 @@
 
 
 
-• 🌴 Proficient in building single-page apps
 
 • 🎯 High self-disciplined with a constant drive for professional excellence.
 
