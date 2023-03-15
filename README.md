@@ -17,6 +17,7 @@
 
 
 ## Languages and Tools:
+[<img title="C#" alt="C#"  width="40px" height="40px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" />](https://www.w3schools.com/C#/)
 [<img title="JS" alt="JS"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.w3schools.com/js/)
 [<img title="NODEJS" alt="NODEJS"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />](https://nodejs.org/en/)
 [<img title="CSS" alt="CSS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://www.w3schools.com/css/)
